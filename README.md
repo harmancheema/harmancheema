@@ -1,5 +1,5 @@
 <h1 align="left">
-	<img src="https://github.com/harmancheema/harmancheema/blob/main/wave.gif" width="25" height="25" /> 
+	<img src="https://github.com/harmancheema/harmancheema/blob/main/images/wave.gif" width="25" height="25" /> 
 Hello! Welcome to my Github page!
 </h1>
 
