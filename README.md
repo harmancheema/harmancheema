@@ -24,7 +24,8 @@ Hello! Welcome to my Github page!
   [![Gmail Badge](https://img.shields.io/badge/-harmancheema-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harmancheema07@gmail.com)](mailto:harmancheema07@gmail.com)
   <br>
 
-<h3 align="left"><img src="https://github.com/harmancheema/harmancheema/blob/main/images/tools2.gif" width="25" height="25" /> Languages and Tools:</h3>
+<br>
+<h2 align="left"><img src="https://github.com/harmancheema/harmancheema/blob/main/images/tools2.gif" width="25" height="25" /> Languages and Tools:</h2>
 <p align="left">
 	<a href="https://www.github.com/" target="_blank">
 		<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="github" width="40" height="40"/>
@@ -99,7 +100,6 @@ Hello! Welcome to my Github page!
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 	</a>
 </p>
-
 <br>
 <h2 align="left">:bar_chart: Github stats:</h2>
 
